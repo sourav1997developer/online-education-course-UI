@@ -1,2 +1,2 @@
 # This is the Front-end design of online course based education.
-UI of education system
+Basic UI of education system
